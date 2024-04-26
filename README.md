@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kerem Tozan</h1>
 <h3 align="center">A passionate Computer Engineer from TÜRKİYE</h3>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU3c3UxNnJidmlwbHdyZGNrOGR3aGtvaTd3Y3FmNHY4aGs4d2Y1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keremtozann&label=Profile%20views&color=0e75b6&style=flat" alt="keremtozann" /> </p>
 
